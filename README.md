@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 I’m **Fabiana Pagliuca**, and I’m passionate about **Data Science, Artificial Intelligence, and Analytics**.  
-🎓 I hold an **MSc in Statistical and Economic Sciences** from *Università Cattolica del Sacro Cuore* (UCSC, Milan).
+🎓 I hold an **MSc Data analytics for business** from *Università Cattolica del Sacro Cuore* (UCSC, Milan).
 
 ---
 
